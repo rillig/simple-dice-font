@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "name": "Simple Dice",
+    "lastOpened": 1523995985373,
+    "created": 1523995985373
+  },
+  "iconSets": [
+    {
+      "selection": [
+      ],
+      "metadata": {
+        "name": "Simple Dice",
+        "licenseURL": "https://github.com/rillig/simple-dice-font/tree/master/LICENSE",
+        "license": "MIT",
+        "designerURL": "https://github.com/rillig",
+        "designer": "Roland Illig",
+        "url": "https://github.com/rillig/simple-dice-font"
+      },
+      "height": 1024,
+      "icons": [
+        {
+          "paths": [
+            "M 32 32 h 960 v 960 h -960 z M 64 64 v 896 h 896 v -896 z",
+            "M 512 512 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0"
+          ],
+          "tags": [
+            "dice-1"
+          ],
+          "defaultCode": 49,
+          "grid": 16,
+          "id": 1,
+          "attrs": []
+        },
+        {
+          "paths": [
+            "M 32 32 h 960 v 960 h -960 z M 64 64 v 896 h 896 v -896 z",
+            "M 256 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 768 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0"
+          ],
+          "tags": [
+            "dice-2"
+          ],
+          "defaultCode": 50,
+          "grid": 16,
+          "id": 2,
+          "attrs": []
+        },
+        {
+          "paths": [
+            "M 32 32 h 960 v 960 h -960 z M 64 64 v 896 h 896 v -896 z",
+            "M 256 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 512 512 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 768 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0"
+          ],
+          "tags": [
+            "dice-3"
+          ],
+          "defaultCode": 51,
+          "grid": 16,
+          "id": 3,
+          "attrs": []
+        },
+        {
+          "paths": [
+            "M 32 32 h 960 v 960 h -960 z M 64 64 v 896 h 896 v -896 z",
+            "M 256 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 768 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 256 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 768 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0"
+          ],
+          "tags": [
+            "dice-4"
+          ],
+          "defaultCode": 52,
+          "grid": 16,
+          "id": 4,
+          "attrs": []
+        },
+        {
+          "paths": [
+            "M 32 32 h 960 v 960 h -960 z M 64 64 v 896 h 896 v -896 z",
+            "M 256 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 768 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 512 512 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 256 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 768 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0"
+          ],
+          "tags": [
+            "dice-5"
+          ],
+          "defaultCode": 53,
+          "grid": 16,
+          "id": 5,
+          "attrs": []
+        },
+        {
+          "paths": [
+            "M 32 32 h 960 v 960 h -960 z M 64 64 v 896 h 896 v -896 z",
+            "M 256 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 512 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 768 256 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 256 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 512 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0",
+            "M 768 768 m -64 0 a 64 64 0 1 1 128 0, 64 64 0 1 1 -128 0"
+          ],
+          "tags": [
+            "dice-6"
+          ],
+          "defaultCode": 54,
+          "grid": 16,
+          "id": 6,
+          "attrs": []
+        }
+      ],
+      "id": 1,
+      "prevSize": 32
+    }
+  ],
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "Simple Dice"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  },
+  "uid": -1
+}
