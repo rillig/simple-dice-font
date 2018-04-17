@@ -1,2 +1,2 @@
 # simple-dice-font
-Hand-written font for dices
+Hand-written font for dice
